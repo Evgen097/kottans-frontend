@@ -49,6 +49,11 @@ Here is my steps...
   <summary> Coursera Git Intro Week 2 Screenshot</summary>
      <image src="https://i.ibb.co/CQKVMTj/cousrera-git-week2.png" alt="Coursera Git Intro Week 2">
   </details>
+  
+ ##### Git course for beginners, very accessible and with examples.
+   - commands for creating commits and tracking changes;
+   - start using git is easy enough;
+   - diff command to compare files.
      
 -------------------     
 #### 2. Basic part at learngitbranching.js.org
@@ -59,6 +64,11 @@ Here is my steps...
   <details> <summary> Learngitbranching.js.org Remote Repositories Screenshot</summary>
    <image src="https://i.ibb.co/cyBQ57f/learngit-2.png" alt="Learngitbranching.js 1">
   </details>
+     
+  ##### It was very interesting to pass the levels, it is much better to learn from examples
+   - rebase command and how to use it
+   - interactivity of the application, and how commits visually change
+   - in further training, to visualize commits
   
 -------------------
  ### 1. Linux, Command Line, HTTP Tools
