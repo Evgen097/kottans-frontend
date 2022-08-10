@@ -90,7 +90,10 @@ Here is my steps...
    Commands for viewing and filtering files I think will be very useful
 ```
 
-1. Linux Survival (4 modules)
 2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
 3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
-
+```     
+         Interesting articles about the technical part of Internet protocols,
+     about how computers communicate. It was useful to learn about several levels
+     of caching and the use of proxy programs for debugging.
+```
