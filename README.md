@@ -72,7 +72,25 @@ Here is my steps...
   
 -------------------
  ### 1. Linux, Command Line, HTTP Tools
-         1. Linux Survival (4 modules)
-         2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
-         3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
+
+#### 1. Linux Survival Guide (4 modules)
+  <details> <summary>Screenshots:</summary>
+  <image src="https://i.ibb.co/QY3JhqT/linux-1-module.png" alt="Linux Survival Guide 1">
+  <image src="https://i.ibb.co/FmnS3bz/linux-2-module.png" alt="Linux Survival Guide 2">
+  <image src="https://i.ibb.co/4FGb2rH/linux-3-module.png" alt="Linux Survival Guide 3">
+  <image src="https://i.ibb.co/FqnL7qs/linux-4-module.png" alt="Linux Survival Guide 4">
+  </details>
+
+```
+   When I watched development tutorials and saw how people use commands
+   in the terminal, it seemed like magic to me.
+
+   I liked the commands for changing directories,
+   and I was surprised that you can send files to print from the terminal.
+   Commands for viewing and filtering files I think will be very useful
+```
+
+1. Linux Survival (4 modules)
+2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
+3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
 
