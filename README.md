@@ -71,7 +71,7 @@ Here is my steps...
    - in further training, to visualize commits
   
 -------------------
- ### 1. Linux, Command Line, HTTP Tools
+ ## 1. Linux CLI, and HTTP
 
 #### 1. Linux Survival Guide (4 modules)
   <details> <summary>Screenshots:</summary>
