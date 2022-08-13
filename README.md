@@ -97,3 +97,19 @@ Here is my steps...
      about how computers communicate. It was useful to learn about several levels
      of caching and the use of proxy programs for debugging.
 ```
+     
+## Git Collaboration
+-------------------
+  #### 1. Coursera Git Intro Week 3 Screenshot
+  <details> <summary>Screenshots:</summary>
+  <image src="https://i.ibb.co/5rFppnz/git-3-week.png" alt="Coursera Git Intro Week 3">
+  </details>
+     
+  #### 2. Coursera Git Intro Week 4 Screenshot
+  <details> <summary>Screenshots:</summary>
+  <image src="https://i.ibb.co/Jknd70L/git-4-week.png" alt="Coursera Git Intro Week 4">
+  </details>
+     
+     
+     
+     
