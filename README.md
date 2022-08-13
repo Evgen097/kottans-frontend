@@ -5,11 +5,6 @@
 
 https://github.com/Evgen097/kottans-frontend/edit/main/README.md
 
-- назвіть (хоча б одну) річ яка була для вас новою
-- назвіть (хоча б одну) річ яка вас здивувала
-- назвіть (хоча б одну) річ яку ви збираєтесь використовувати у майбутньому
-- напишіть ваші думки про них у вашому репозиторії
-
 
 ## Stage_0
 -------------------
@@ -102,27 +97,40 @@ Here is my steps...
      
 ## Git Collaboration
 -------------------
-  #### 1. Coursera Git Intro Week 3 Screenshot
+#### 1. Coursera Git Intro Week 3 Screenshot
   <details> <summary>Screenshots:</summary>
   <image src="https://i.ibb.co/5rFppnz/git-3-week.png" alt="Coursera Git Intro Week 3">
   </details>
      
-  #### 2. Coursera Git Intro Week 4 Screenshot
+#### 2. Coursera Git Intro Week 4 Screenshot
   <details> <summary>Screenshots:</summary>
   <image src="https://i.ibb.co/Jknd70L/git-4-week.png" alt="Coursera Git Intro Week 4">
   </details>
      
      
-     #### 3. Learngitbranching.js.org. Основи: Їдемо далі, Переміщуємо роботу туди-сюди
+#### 3. Learngitbranching.js.org. Основи: Їдемо далі, Переміщуємо роботу туди-сюди
   <details> <summary> Learngitbranching.js.org Basics Screenshot</summary>
    <image src="https://i.ibb.co/W2knSzM/learngit-1.png" alt="Learngitbranching.js 1">
   </details>
          
-     #### 4. Learngitbranching.js.org. Віддалені репозиторії: Через origin – до зірок.
-     Прогресивне використання Git Remotes
+#### 4. Learngitbranching.js.org. Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
   <details> <summary> Learngitbranching.js.org Remote Repositories Screenshot</summary>
    <image src="https://i.ibb.co/cyBQ57f/learngit-2.png" alt="Learngitbranching.js 1">
   </details>
+   
      
+ ```
+         I think now I can use git for my projects and for learning. 
+         Thanks to the course, I know how to make pull requests and collaborate 
+     with other developers. I liked the lessons about Code Reviews
+     and Continuous Integration, I think they are very useful
+     to get acquainted with.
+```
+    
      
-     
+-------------------
+-------------------
+- назвіть (хоча б одну) річ яка була для вас новою
+- назвіть (хоча б одну) річ яка вас здивувала
+- назвіть (хоча б одну) річ яку ви збираєтесь використовувати у майбутньому
+- напишіть ваші думки про них у вашому репозиторії 
