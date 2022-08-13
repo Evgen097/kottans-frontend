@@ -3,6 +3,8 @@
 # kottans-frontend
 ##### Hello! My name is Evgen. I have previously taken web front-end development courses, I hope to learn something interesting from these courses 😸
 
+https://github.com/Evgen097/kottans-frontend/edit/main/README.md
+
 - назвіть (хоча б одну) річ яка була для вас новою
 - назвіть (хоча б одну) річ яка вас здивувала
 - назвіть (хоча б одну) річ яку ви збираєтесь використовувати у майбутньому
@@ -110,6 +112,17 @@ Here is my steps...
   <image src="https://i.ibb.co/Jknd70L/git-4-week.png" alt="Coursera Git Intro Week 4">
   </details>
      
+     
+     #### 3. Learngitbranching.js.org. Основи: Їдемо далі, Переміщуємо роботу туди-сюди
+  <details> <summary> Learngitbranching.js.org Basics Screenshot</summary>
+   <image src="https://i.ibb.co/W2knSzM/learngit-1.png" alt="Learngitbranching.js 1">
+  </details>
+         
+     #### 4. Learngitbranching.js.org. Віддалені репозиторії: Через origin – до зірок.
+     Прогресивне використання Git Remotes
+  <details> <summary> Learngitbranching.js.org Remote Repositories Screenshot</summary>
+   <image src="https://i.ibb.co/cyBQ57f/learngit-2.png" alt="Learngitbranching.js 1">
+  </details>
      
      
      
