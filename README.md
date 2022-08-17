@@ -126,8 +126,22 @@ Here is my steps...
      and Continuous Integration, I think they are very useful
      to get acquainted with.
 ```
-    
+
      
+## Intro to HTML and CSS
+-------------------
+     
+#### 1. Week 1 Screenshot
+  <details> <summary>Screenshots:</summary>
+  <image src="https://i.ibb.co/QjFZQXY/task-html-css-intro-week-1.png" alt="HTML, CSS, and Javascript Week 1">
+  </details>
+     
+#### 2. Week 2 Screenshot
+  <details> <summary>Screenshots:</summary>
+  <image src="https://i.ibb.co/TcdNd1G/task-html-css-intro-week-2.png" alt="HTML, CSS, and Javascript Week 2">
+  </details>    
+     
+HTML, CSS, and Javascript for Web Developers
 -------------------
 -------------------
 - назвіть (хоча б одну) річ яка була для вас новою
