@@ -11,10 +11,10 @@ https://github.com/Evgen097/kottans-frontend/edit/main/README.md
 
 #### 1. General ⏬
    - [x] Git Basics
-   - [ ] Linux CLI and Networking
-   - [ ] VCS (hello gitty), GitHub and Collaboration
+   - [x] Linux CLI and Networking
+   - [x] VCS (hello gitty), GitHub and Collaboration
 #### 2. Front-End Basics ⏬
-   - [ ] Intro to HTML & CSS
+   - [x] Intro to HTML & CSS
    - [ ] Responsive Web Design
    - [ ] HTML & CSS Practice (Pending)
    - [ ] JavaScript Basics
