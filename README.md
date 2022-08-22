@@ -130,18 +130,40 @@ Here is my steps...
      
 ## Intro to HTML and CSS
 -------------------
+
+1. HTML, CSS, and Javascript for Web Developers
      
-#### 1. Week 1 Screenshot
+#### Week 1 Screenshot
   <details> <summary>Screenshots:</summary>
   <image src="https://i.ibb.co/QjFZQXY/task-html-css-intro-week-1.png" alt="HTML, CSS, and Javascript Week 1">
   </details>
      
-#### 2. Week 2 Screenshot
+#### Week 2 Screenshot
   <details> <summary>Screenshots:</summary>
   <image src="https://i.ibb.co/TcdNd1G/task-html-css-intro-week-2.png" alt="HTML, CSS, and Javascript Week 2">
   </details>    
      
 HTML, CSS, and Javascript for Web Developers
+
+
+2. Codecademy Learn HTML
+<details> <summary>Screenshots:</summary>
+<image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_html_css_intro/Codecademy%20Learn%20HTML.png?raw=true" alt="Learn HTML">
+</details>
+
+3. Codecademy Learn CSS
+<details> <summary>Screenshots:</summary>
+<image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_html_css_intro/Codecademy%20Learn%20CSS.png?raw=true" alt="Learn CSS">
+</details>
+
+```
+After a theoretical course on Coursera, you have the opportunity to immediately
+try everything in practice.
+It was interesting to learn about default styles, positioning of elements on 
+the page and about colors. 
+Most of all I liked the lesson about "box-sizing: border-box", I think it will be very useful in practice
+```
+
 -------------------
 -------------------
 - назвіть (хоча б одну) річ яка була для вас новою
