@@ -164,6 +164,47 @@ the page and about colors.
 Most of all I liked the lesson about "box-sizing: border-box", I think it will be very useful in practice
 ```
 
+
+## Responsive Web Design
+-------------------
+1. Responsive web design basics
+```
+Article "Responsive web design basics
+"contain a lot of useful information that can be put into practice when creating sites.
+It was interesting that you need to start development with an interface for a small screen.
+```
+
+2. FLEXBOX. Вчимося верстати на флексах
+```
+I liked the presentation of the material, everything is clear and to the point:
+how to make up columns, footers and a few tricks for working with the editor
+```
+
+3. Flexbox Froggy - гра для закріплення
+<details> <summary>Screenshots:</summary>
+<image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_responsive_web_design/flexfroggy2.png?raw=true" alt="Flexbox Froggy">
+</details>
+```
+After viewing the theoretical material, the game provides an opportunity to
+consolidate the knowledge gained and try everything in practice, made fun and interesting
+```
+
+4. CSS Grid Layout
+```
+Page layout on CSS Grid Layout looks a bit complicated, but at the same time
+it gives a lot of opportunities to organize the code.
+```
+
+5. Grid Garden - гра для закріплення
+<details> <summary>Screenshots:</summary>
+<image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_responsive_web_design/grid%20garden.png?raw=true" alt="Grid Garden">
+</details>
+```
+The game is made beautifully and interestingly, it gives you the opportunity 
+to get acquainted with the grid system in practice, and try everything with your own hands.
+```
+
+
 -------------------
 -------------------
 - назвіть (хоча б одну) річ яка була для вас новою
