@@ -15,7 +15,7 @@ https://github.com/Evgen097/kottans-frontend/edit/main/README.md
    - [x] VCS (hello gitty), GitHub and Collaboration
 #### 2. Front-End Basics ⏬
    - [x] Intro to HTML & CSS
-   - [ ] Responsive Web Design
+   - [x] Responsive Web Design
    - [ ] HTML & CSS Practice (Pending)
    - [ ] JavaScript Basics
    - [ ] Document Object Model
