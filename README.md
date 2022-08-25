@@ -181,9 +181,10 @@ how to make up columns, footers and a few tricks for working with the editor
 ```
 
 3. Flexbox Froggy - гра для закріплення
-<details> <summary>Screenshots:</summary>
-<image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_responsive_web_design/flexfroggy2.png?raw=true" alt="Flexbox Froggy">
-</details>
+   <details> <summary>Screenshots:</summary>
+   <image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_responsive_web_design/flexfroggy2.png?raw=true" alt="Flexbox Froggy">
+   </details>
+   
 ```
 After viewing the theoretical material, the game provides an opportunity to
 consolidate the knowledge gained and try everything in practice, made fun and interesting
@@ -196,9 +197,10 @@ it gives a lot of opportunities to organize the code.
 ```
 
 5. Grid Garden - гра для закріплення
-<details> <summary>Screenshots:</summary>
-<image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_responsive_web_design/grid%20garden.png?raw=true" alt="Grid Garden">
-</details>
+   <details> <summary>Screenshots:</summary>
+   <image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_responsive_web_design/grid%20garden.png?raw=true" alt="Grid Garden">
+   </details>
+   
 ```
 The game is made beautifully and interestingly, it gives you the opportunity 
 to get acquainted with the grid system in practice, and try everything with your own hands.
