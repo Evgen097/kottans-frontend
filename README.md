@@ -17,7 +17,7 @@ https://github.com/Evgen097/kottans-frontend/edit/main/README.md
    - [x] Intro to HTML & CSS
    - [x] Responsive Web Design
    - [ ] HTML & CSS Practice (Pending)
-   - [ ] JavaScript Basics
+   - [x] JavaScript Basics
    - [ ] Document Object Model
 #### 3. Advanced Topics
    - [ ] Building a Tiny JS World (pre-OOP)
@@ -209,16 +209,16 @@ to get acquainted with the grid system in practice, and try everything with your
 ## JS Basics
 1. Вступ до JS
    <details> <summary>Screenshots:</summary>
-   <image src="" alt="freecodecamp-basic-100">
+   <image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_js_basics/freecodecamp-basic-100.png" alt="freecodecamp-basic-100">
    </details>
    
 2. Вправи FreeCodeCamp.
    <details> <summary>Screenshots:</summary>
-   <image src="" alt="freecodecamp-basic-data-structures">
-   <image src="" alt="freecodecamp-ES6 --18 exersises">
-   <image src="" alt="freecodecamp-Functional Programming">
-   <image src="" alt="freecodecamp-Basic Algorithm Scripting">
-   <image src="" alt="freecodecamp-Intermediate Algoritms 1-11">
+   <image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_js_basics/freecodecamp-basic-data-structures.png" alt="freecodecamp-basic-data-structures">
+   <image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_js_basics/freecodecamp-ES6%20--18%20exersises.png" alt="freecodecamp-ES6 --18 exersises">
+   <image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_js_basics/freecodecamp-Functional%20Programming.png" alt="freecodecamp-Functional Programming">
+   <image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_js_basics/freecodecamp-Basic%20Algorithm%20Scripting.png" alt="freecodecamp-Basic Algorithm Scripting">
+   <image src="https://github.com/Evgen097/kottans-frontend/blob/main/task_js_basics/freecodecamp-Intermediate%20Algoritms%201-11.png" alt="freecodecamp-Intermediate Algoritms 1-11">
    </details>
    
 ```
