@@ -206,6 +206,25 @@ The game is made beautifully and interestingly, it gives you the opportunity
 to get acquainted with the grid system in practice, and try everything with your own hands.
 ```
 
+## JS Basics
+1. Вступ до JS
+   <details> <summary>Screenshots:</summary>
+   <image src="" alt="freecodecamp-basic-100">
+   </details>
+   
+2. Вправи FreeCodeCamp.
+   <details> <summary>Screenshots:</summary>
+   <image src="" alt="freecodecamp-basic-data-structures">
+   <image src="" alt="freecodecamp-ES6 --18 exersises">
+   <image src="" alt="freecodecamp-Functional Programming">
+   <image src="" alt="freecodecamp-Basic Algorithm Scripting">
+   <image src="" alt="freecodecamp-Intermediate Algoritms 1-11">
+   </details>
+   
+```
+It was interesting to get acquainted and practice new features of ES6, as well as to practice functional programming. Algorithm tasks are quite interesting and allow you to learn theoretical material in practice
+```
+
 
 -------------------
 -------------------
